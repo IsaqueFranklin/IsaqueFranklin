@@ -1,7 +1,1 @@
-Hi there 👋
-
-I'm a self-taught web and mobile developer and I focus on the creation of dynamic websites and apps using a stack of React, React Native, Node and the great Firebase.
-I also am interested in python that was actually the first programming language I learned in my life back when I was 13. I'm coding blockchain projects sometimes and I'll probably learn Django and Flask in the near future.
-
-If you liked my repos take a look at my blog profile on the blog platform that I've coded: [Isaque Franklin](http://www.blogme.com.br/usuario/perfil/isaquefranklin)
-And obviously my instagram account: [isaque.franklin](https://www.instagram.com/isaque.franklin/)
+Desenvolvedor de software autodidata e estudante de Engenharia na Universidade Federal de Minas Gerais. Fundador de duas empresas de tecnologia e entusiasta da área de startups. Com uma jornada na programação desde os 12 anos, minha paixão pela tecnologia me impulsionou a criar projetos inovadores a cada mês. Explore meu repositório para descobrir minhas criações e acompanhar minha trajetória de aprendizado contínuo!
