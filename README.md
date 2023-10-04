@@ -1,1 +1,1 @@
-Desenvolvedor de software autodidata e estudante de Engenharia na Universidade Federal de Minas Gerais. Fundador de duas empresas de tecnologia e entusiasta da área de startups. Com uma jornada na programação desde os 12 anos, minha paixão pela tecnologia me impulsionou a criar projetos inovadores a cada mês. Explore meu repositório para descobrir minhas criações e acompanhar minha trajetória de aprendizado contínuo!
+*Audaces Fortuna Juvat*
